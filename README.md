@@ -72,9 +72,6 @@ network 192.168.33.0
 
 ## Network Topology
 
-> Add your image in the repository and update the filename below
-
-```md
 ![Network Topology](topology.png)
 ```
 
